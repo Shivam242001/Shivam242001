@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://shivam242001.github.io/)
 <h1 align="center">Hi There 👋  <br>I'm Shivam Nanda</h1>
 <h3 align="center">A passionate developer and an avid learner</h3>
 
