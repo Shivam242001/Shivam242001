@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://shivam242001.github.io/)
+
 <h1 align="center">Hi There 👋  <br>I'm Shivam Nanda</h1>
 <h3 align="center">A passionate developer and an avid learner</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DutyDo - One stop solution for housemate to divide house chores](https://github.com/Shivam242001/DutyDoChoresApp)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif.">
+
 - 💬 Ask me about **Python, Java, .NET, Angular, React**
 
 - 🌱 I’m currently learning **AWS, Swift, Spring**
