@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, .NET, Angular, React**
 
-- 🌱 I’m currently learning **AWS, Swift, Spring**
+- 🌱 I’m currently learning **AWS and Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivam242001/](https://github.com/Shivam242001/)
 
