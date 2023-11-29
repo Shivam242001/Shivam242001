@@ -11,12 +11,12 @@
 
 - 🌱 I’m currently learning **AWS and Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivam242001/](https://github.com/Shivam242001/)
+- 👨‍💻 All of my projects are available on [github]([https://github.com/Shivam242001/](https://github.com/ShivamNanda-24?tab=repositories))
 
 
 - 📫 How to reach me **nanda4@wisc.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12P_3jUYOrzVTJwtDaTB4EBLPRp-pmAhT/view](https://drive.google.com/file/d/12P_3jUYOrzVTJwtDaTB4EBLPRp-pmAhT/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/12P_3jUYOrzVTJwtDaTB4EBLPRp-pmAhT/view)
 
 - ⚡ Fun fact **I like to spend my time playing chess or read about investment**
 
