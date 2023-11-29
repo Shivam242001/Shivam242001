@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS and Spring**
 
-- 👨‍💻 All of my projects are available on [github]([https://github.com/Shivam242001/](https://github.com/ShivamNanda-24?tab=repositories))
+- 👨‍💻 All of my projects are available on [github](https://github.com/ShivamNanda-24?tab=repositories)
 
 
 - 📫 How to reach me **nanda4@wisc.edu**
