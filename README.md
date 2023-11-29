@@ -2,7 +2,7 @@
 <h1 align="center">Hi There 👋  <br>I'm Shivam Nanda</h1>
 <h3 align="center">A passionate developer and an avid learner</h3>
 
-- 💼 I’m looking for **Internship as well as Full time opportunities as a Software Developer**
+- 💼 I’m looking for **Full time opportunities as a Software Developer**
 
 - 🔭 I’m currently working on [DutyDo - One stop solution for housemate to divide house chores](https://github.com/Shivam242001/DutyDoChoresApp)
 
